@@ -38,7 +38,8 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 gem 'haml', '~> 4.0.5'
-gem 'simple_form'
-gem 'bootstrap-sass'
-gem 'paperclip'
-gem 'cocoon'
+gem 'simple_form', '~> 3.0.2'
+gem 'bootstrap-sass', '~> 3.3.0.1'
+gem 'paperclip', '~> 4.2.1'
+gem 'cocoon', '~> 1.2.6'
+gem 'devise'
