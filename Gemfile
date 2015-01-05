@@ -40,3 +40,5 @@ gem 'spring',        group: :development
 gem 'haml', '~> 4.0.5'
 gem 'simple_form'
 gem 'bootstrap-sass'
+gem 'paperclip'
+gem 'cocoon'
